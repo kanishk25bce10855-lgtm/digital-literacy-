@@ -4,7 +4,7 @@
  #  Digital Literacy Project – CSE0001
 
 ##  Student Details
-- Name: Kanishk khandelwal
+- Name: Kanishk Khandelwal
 - Course: B.Tech (CSE Core) 
 - University: VIT Bhopal University  
 - Course Code: CSE0001  
@@ -89,4 +89,4 @@ The detailed report covering all tasks, reflections, and learnings is available 
 ---
 
 ## Conclusion
-This project helped in building essential digital skills required for academic and professional growth. It also enhanced awareness about safe and responsible digital behavior. 
+This project helped in building essential digital skills required for academic and professional growth. It also enhanced awareness about safe and responsible digital behavior.
