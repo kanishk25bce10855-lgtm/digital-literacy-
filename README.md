@@ -4,8 +4,8 @@
  #  Digital Literacy Project – CSE0001
 
 ##  Student Details
-- Name: Yuvraj Singh
-- Course: B.Tech (CSE Cloud Computing) 
+- Name: Kanishk khandelwal
+- Course: B.Tech (CSE Core) 
 - University: VIT Bhopal University  
 - Course Code: CSE0001  
 - Project Type: Digital Literacy Portfolio  
